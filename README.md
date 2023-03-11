@@ -31,7 +31,7 @@ This initiative is perfect for those interested in pursuing a career in the web 
 
 # `Assignment description`
 
-**To build a CrossChain NFT using Router CrossTalk with the following instructions**
+**To build a CrossChain NFT using Router CrossTalk with the following instructions:-**
 
 ![nftRouter](https://user-images.githubusercontent.com/124175970/224004658-177790e4-c7f5-4cb4-9c44-810bd6c780d0.gif)
 
