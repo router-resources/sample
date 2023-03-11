@@ -19,7 +19,7 @@ Router Protocol is a solution introduced to address the issues hindering the usa
 
 Please check the [official documentation of Router Protocol](https://www.routerprotocol.com/)
 
-### Why participate in an Octernship with OpenSauced
+# `Why participate in an Octernship with OpenSauced`
 
 [Brian Douglas](https://github.com/bdougie), your lead, is the founder and CEO of Open Sauced where he works on increasing the knowledge and insights of open-source communities. In the past he’s lead Developer Advocacy at GitHub by fostering a community of early adopters through content creation showcasing the newest Github features.
 
