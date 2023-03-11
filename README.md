@@ -11,7 +11,7 @@ This should be a fun exercise.
 
 
 
-![This is an image](https://www.youtube.com/watch?v=h8gwrzis-dY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 99% of software is built with open source and the companies that know this have the secret sauce to scale teams and product quickly. Open-source unlocks opportunity in hiring, adoption, and product velocity and OpenSauced is the platform that connects open source to opportunity. 
