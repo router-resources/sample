@@ -3,6 +3,8 @@ This should be a fun exercise.
 
 ## Router Protocol
 
+<img src="https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg" align="center"/>
+
 ![router-protocol-crypto-ninjas](https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg)
 
 
