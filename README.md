@@ -1,7 +1,7 @@
 # Information
 This should be a fun exercise.
 
-## OpenSauced
+## Router Protocol
 
 ![Company Logo](https://github.com/open-sauced/assets/blob/main/logos/logo-on-dark.png)
 
