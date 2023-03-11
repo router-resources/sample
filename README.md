@@ -3,7 +3,8 @@ This should be a fun exercise.
 
 ## Router Protocol
 
-![Company Logo](https://github.com/open-sauced/assets/blob/main/logos/logo-on-dark.png)
+![router-protocol-crypto-ninjas](https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg)
+
 
 ### Company information 
 
