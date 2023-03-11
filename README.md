@@ -3,10 +3,10 @@ This should be a fun exercise.
 
 ## Router Protocol
 
-<p align="center" >
+<!-- <p align="center" >
 
 <img src="https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg" />
-  </p>
+  </p> -->
 
 ![router-protocol-crypto-ninjas](https://user-images.githubusercontent.com/124175970/224509096-12e4864a-6819-4c8c-8998-41c7a96ba026.jpg)
 
@@ -14,7 +14,6 @@ This should be a fun exercise.
 ### Company information 
 
 
-[![Watch the video](https://user-images.githubusercontent.com/124175970/224508555-de9259e8-9f81-4def-8b47-d76ea6273180.png)](https://youtu.be/rapxgBBraJM)
 
 
 
