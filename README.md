@@ -31,6 +31,10 @@ This initiative is perfect for those interested in pursuing a career in the web 
 
 # `Assignment description`
 
+**To build a CrossChain NFT using Router CrossTalk with the following instructions**
+
+![nftRouter](https://user-images.githubusercontent.com/124175970/224004658-177790e4-c7f5-4cb4-9c44-810bd6c780d0.gif)
+
 1. Give the NFT a name - "Your name" and symbol - "Your Name's first and 2nd name first letter used as abbreviation".
 
 2. Use Mumbai Testnet as the source chain and Fuji Testnet as the destination chain.
@@ -42,6 +46,10 @@ This initiative is perfect for those interested in pursuing a career in the web 
 5. Commit your solidity file to the repository.
 
 6. Copy the transaction hash from the Router Explorer and submit in this [form](https://docs.google.com/forms/d/e/1FAIpQLSd8Xuiuw32kOqGsWmT5s7GLjLVZ_rHXw9bAJbdbr0XzrVG6RA/viewform?embedded=true) 
+
+**Number of Points**
+
+You will earn 100 points after you have been evaluated based on the assignmnet.
 
 # `Evaluation Process`
 
@@ -84,7 +92,6 @@ Router Protocol is a solution introduced to address the issues hindering the usa
 
 Please check the [official documentation of Router Protocol](https://www.routerprotocol.com/) 
 
-![nftRouter](https://user-images.githubusercontent.com/124175970/224004658-177790e4-c7f5-4cb4-9c44-810bd6c780d0.gif)
 
 # 🎯 `Steps`
 
