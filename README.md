@@ -47,11 +47,11 @@ This initiative is perfect for those interested in pursuing a career in the web 
 
 6. Copy the transaction hash from the Router Explorer and submit in this [form](https://docs.google.com/forms/d/e/1FAIpQLSd8Xuiuw32kOqGsWmT5s7GLjLVZ_rHXw9bAJbdbr0XzrVG6RA/viewform?embedded=true) 
 
-**Number of Points**
+**Number of Points:**
 
 You will earn 100 points after you have been evaluated based on the assignmnet.
 
-# `Evaluation Process`
+# `Evaluation Process:`
 
 We'll evaluate you on the basis of the following :
 
