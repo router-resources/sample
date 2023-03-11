@@ -53,7 +53,7 @@ We'll evaluate you on the basis of the following :
 
 3. Whether you transferred the NFT from the source chain (Mumbai Testnet) to the destination chain (Fuji Testnet) using Router CrossTalk. We check this by the transaction hash that you provide in the form]
 
-### Recommended qualifications
+# `Recommended qualifications`
 
 **Desired Skills:**
 
@@ -72,7 +72,7 @@ To participate, you must be:
 * Passionate about Web3 
 
 
-### Resources
+# `Resources`
 
 - [api.opensauced.pizza](https://api.opensauced.pizza/)
 - [docs.opensauced.pizza](https://docs.opensauced.pizza/)
