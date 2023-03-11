@@ -19,21 +19,28 @@ Router Protocol is a solution introduced to address the issues hindering the usa
 
 Please check the [official documentation of Router Protocol](https://www.routerprotocol.com/)
 
-# `Why participate in an Octernship with OpenSauced`
+# `Why participate in Router Student Expert Program`
 
-[Brian Douglas](https://github.com/bdougie), your lead, is the founder and CEO of Open Sauced where he works on increasing the knowledge and insights of open-source communities. In the past he’s lead Developer Advocacy at GitHub by fostering a community of early adopters through content creation showcasing the newest Github features.
+We reward 🏅 badges to individuals who complete our Open Source assignments!
 
-Brian has a passion for open-source and loves mentoring new contributors through Open Sauced, the platform that empowers the best developers to work in open-source. He has mentored countless devs into their first or next role as an engineers.
+The journey is divided into multiple stages, each with its own set of points. As you complete Assignment 1, you'll earn a certain number of points, and the same goes for Assignment 2, all the way up to the Final Assignment. Once you've earned a certain benchmark points, you'll receive an NFT badge as a token of your achievement.
 
-Today OpenSauced is a small team of 5 mostly engineers, that are working on the goal of turning open source into opportunity.
+Each assignment has its own unique set of points. For every 100 points earned, you'll receive a 🥉 Bronze Router Expert badge, for 500 points, you'll get a 🥈 Silver badge, and for 1000 points, you'll receive a coveted 🥇 Gold badge. These badges will add an extra shine to your resume and can be a golden ticket to working with us.
 
-### Octernship role description
+This initiative is perfect for those interested in pursuing a career in the web 3 space, and the badges can serve as a glowing recommendation for future opportunities. So what are you waiting for? Let's get started on the path to becoming a Router Expert! 🚀
 
-The Octernship role for OpenSauced will be working with the [OpenSauced API](https://api.opensauced.pizza/) and to explore new ways to engage developers where they are, on GitHub. The application will explore your ability to leverage code to build a browser extension using JavaScript or TypeScript (your choice) that connects OpenSauced to GitHub. 
+# `Assignment description`
 
-This will be the first step of your work for the next 6 months building out small features within the extension. You will work with Sr. Engineers and a Designer that will help build out your day to day work. 
+1. Give the NFT a name - "Your name" and symbol - "Your Name's first and 2nd name first letter used as abbreviation".
 
-We are seeking an intern developer work alongside our rapidly growing company. In this role, you will help build out features and solutions to meet the needs of our OpenSauced users and community. This role will an integral part of our development team and documentation processes.
+2. Use Mumbai Testnet as the source chain and Fuji Testnet as the destination chain.
+
+3. Mint the NFT with id = 450 on the source chain.
+
+4. Transfer the NFT from the source chain to the destination chain.
+
+5. Copy the transaction hash from the Router Explorer and submit in this ![form](https://docs.google.com/forms/d/e/1FAIpQLSd8Xuiuw32kOqGsWmT5s7GLjLVZ_rHXw9bAJbdbr0XzrVG6RA/viewform?embedded=true) 
+
 
 **Key Responsibilities:**
 
