@@ -15,14 +15,9 @@ This should be a fun exercise.
 
 ### Company information 
 
+Router Protocol is a solution introduced to address the issues hindering the usability of cross-chain liquidity migration in the DeFi ecosystem. It acts as a bridge connecting various layer 1 and layer 2 blockchains, allowing for the flow of contract-level data across them. The Router Protocol can either transfer tokens between chains or initiate operations on one chain and execute them on another.
 
-
-
-
-
-99% of software is built with open source and the companies that know this have the secret sauce to scale teams and product quickly. Open-source unlocks opportunity in hiring, adoption, and product velocity and OpenSauced is the platform that connects open source to opportunity. 
-
-The open-source intelligence platform for finding the best developers and scaling engineering teams. Unlock the power of open-source with insights by the slice.
+Please check the [official documentation of Router Protocol](https://www.routerprotocol.com/)
 
 ### Why participate in an Octernship with OpenSauced
 
